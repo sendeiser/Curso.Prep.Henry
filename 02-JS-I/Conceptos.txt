@@ -1,0 +1,9 @@
+Variables: una variable es una letra o palabra que se usa para que vos mismo le des un significado por ejemplo que digas que perro quiere decir agua o pelota es un arbol, en este caso las usamos para darles valores de numeros y tambien letras, palabras y oraciones.
+
+Strings: los strings son cadenas, es decir, grupos de palabras como por ejemplo una oracion.
+
+Funciones: las funciones son grupos de codigo, es decir, de instrucciones a seguir paso a paso guardadas en un cajon por ejemplo donde nosotros buscaremos el cajon correcto para usar cuando necesitemos.
+
+Declaraciones: las declarcaciones son la accion de darle un significado a las variables ya sea un numero, letra, palabra, oraciones.
+
+Valores Booleanes: estos valores tambien se usan para dar significados a una variable que en esta caso son los tan conocidos Verdadero o Falso.
