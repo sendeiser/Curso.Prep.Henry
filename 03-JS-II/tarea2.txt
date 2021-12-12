@@ -1,0 +1,7 @@
+for: es un bucle o repeticion de uno o conjunto de pasos que terminaran dada una condicion que nos dira cuantas veces se repetira dicho bucle
+
+&&: es elemento logico que nos permite concatenar dos condiciones para que si en el caso de ser verdadero los 2 el resultado sera verdadero al haber un solo falso el resultado sera falso
+
+||: el elemento logico OR sirve para el resultado sea verdadero en caso de que si uno ya es verdadera el resultado sera verdadero sin importar si la otra condicion es falsa
+
+!: este componente logico es llamdo negacion nos sirve para negar condiciones
