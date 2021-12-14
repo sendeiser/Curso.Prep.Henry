@@ -1,0 +1,1 @@
+Arrays: un array es una variable al que se le puede asignar un conjunto de valores posicionados pero no asi ordenados, estos valores pueden ser numeros, caracteres y palabras o strings(cadena de caracteres)
