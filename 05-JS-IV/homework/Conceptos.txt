@@ -1,0 +1,9 @@
+Objeto: un objeto es similar a una variable solo que dentro del mismo tiene propiedades en donde cada una de estas propiedades pueden ser cualquier tipo de valor o variable, hasta tambien poder guardar metodos(funciones) dentro de ellas.
+
+Propiedades: las propiedades son los diferentes valores que puede tener un objeto, los cuales pueden ser numerico,caracteres, cadenas de caracteres(strings),arrays o vectores y metodos(funciones) llamados asi dentro de un objeto.
+
+Metodos: los metodos son funciones creadas o declaradas dentro de los objetos como una propiedad mas.
+
+For...in: este bucle tiene la funcion de recorrer un todas las propiedades de un objeto en particular.
+
+Notacion de Corchetes o Brakets Notation VS Notacion de Puntos o DOT Notation: es el metodo para obtener valores de un objeto a traves del nombre de la propiedad dentro de corchetes mientras que el DOT Notation es el metodo de obtener el valor de una propiedad a diferencia de los corchete a traves de un punto luego del objeto y luego de eso el nombre de la propiedad.
