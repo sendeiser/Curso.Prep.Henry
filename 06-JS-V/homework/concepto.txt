@@ -1,0 +1,3 @@
+Prototype: es una propiedad predefinida(en este caso metodos) que tendra el constructor fuera de las propiedades ya definidas dentro de el, que quiere decir esto; en palabras mas simple el prototype es una propiedad que nos permite y nos ayuda reutilizar metodos dentro del constructor que serviran para luego crear asignaciones con estos metodos de una forma global por decirlo asi.
+
+Constructor: el constructor o tambien llamado clase es una plantilla de propiedades de un objeto que nos serviran para no tener que copiar el mismo codigo de un objeto varias veces y usar la plantilla de un solo objeto en este caso lo llameros Constructor, en el cual dentro del mismo se utiliza la palabra clave(key) para hacer referencia al nuevo objeto a crea en la instancia del new.
