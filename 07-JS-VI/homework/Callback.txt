@@ -1,0 +1,1 @@
+Callback: los callbacks son un metodo para usar funciones dentro de otras funciones y asi ahorrar lineas de codigo.
