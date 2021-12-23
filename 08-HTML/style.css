@@ -1,17 +1,44 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+body{
+    background-image: url('fondosol.png');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
 h1{
     color:firebrick
 }
 img{
-    height: 400px;
+    height: 300px;
 }
 #thirdDiv{
+    display:flex;
     height: 600px;
     width: 500px;
     background-color:darksalmon;
     padding: 50px;
     border: 2px solid black;
+    flex-direction: column;
+    align-items:center;
+    border-radius: 3px;
 }
 #spanId{
     font-size:18px;
     margin: 50px;
+ }
+ .divClass{
+     text-align: center;
+     margin: 1em auto;
+ }
+ #fix-img{
+     height: 240px !important;
+     border-bottom: 2px solid black;
+     border-radius: 0px 0px 3px 3px
  }
